@@ -42,7 +42,7 @@ chat-app/
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/karthik-vemu/chat-app.git
 cd chat-app 
 
 2. Install Dependencies
